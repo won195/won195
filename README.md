@@ -1,6 +1,6 @@
-[![won195's GitHub stats](https://github-readme-stats.vercel.app/api?username=won195&show_icons=true&theme=radical)](https://github.com/won195/github-readme-stats)
+[![won195's GitHub stats](https://github-readme-stats.vercel.app/api?username=won195)](https://github.com/won195/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won195&layout=compact&theme=radical)](https://github.com/won195/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=won195&layout=compact)](https://github.com/won195/github-readme-stats)
 
 --------
 
